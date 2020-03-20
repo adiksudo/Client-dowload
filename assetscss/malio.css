@@ -47,8 +47,8 @@
 
 @font-face {
     font-family: 'malio';
-    src:  url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/malio-icons.eot?k8g547');
-    src:  url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/malio-icons.eot?k8g547#iefix') format('embedded-opentype'),
+    src:  url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/fonts/malio-icons.eot?k8g547');
+    src:  url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/fonts/malio-icons.eot?k8g547#iefix') format('embedded-opentype'),
       url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/fonts/malio-icons.ttf?k8g547') format('truetype'),
       url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/fonts/malio-icons.woff?k8g547') format('woff'),
       url('https://cdn.jsdelivr.net/gh/adiksudo/Client-dowload/fonts/malio-icons.svg?k8g547#malio-icons') format('svg');
